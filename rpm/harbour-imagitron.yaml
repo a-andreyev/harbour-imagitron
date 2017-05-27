@@ -7,6 +7,7 @@ Release: 1
 # TODO: change it
 Group: Qt/Qt
 URL: http://aa13q.ru/
+# TODO: change it:
 License: WTFPL
 # This must be generated before uploading a package to a remote build service.
 # Usually this line does not need to be modified.
