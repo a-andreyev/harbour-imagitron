@@ -10,7 +10,7 @@ Simon Stålenhag's art gallery with option to set ambience. The application is m
 ## Future work
 + QImageReader option to handle `Corrupt JPEG data: premature end of data segment`
 + QML `Image` cache built-in persistent cache proposal
-+ Jolla `Ambienced` proposal to 
++ Jolla `Ambienced` proposal to access to `AmbienceSettingsPage`
 ### Support
 + [paypal](https://paypal.me/aa13q)
 + [flattr](https://flattr.com/profile/aa13q)
