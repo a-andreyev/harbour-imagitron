@@ -1,0 +1,27 @@
+# Rename this file as harbour-imagitron.changes to include changelog
+# entries in your RPM file.
+#
+# Add new changelog entries following the format below.
+# Add newest entries to the top of the list.
+# Separate entries from eachother with a blank line.
+
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+
+* Sat May 27 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.3-1
+- Working on public release
+- Image caching (buggy)
+
+
+* Fri May 19 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.2-1
+- Working on public release
+- Image view page
+- Ambiencess
+
+* Sun Aug 6 2016 Alexey Andreyev <aa13q@ya.ru> 0.0.1-2
+- Cover image
+
+* Sun Aug 1 2016 Alexey Andreyev <aa13q@ya.ru> 0.0.1-1
+- Initial version
+- "We need to talk about Annika" Icon
+

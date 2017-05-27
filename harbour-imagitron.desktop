@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-imagitron
+Exec=harbour-imagitron
+Name=Simon Stålenhag's Imagitron
+Name[ru]=Simon Stålenhag's Imagitron
+Name[en]=Simon Stalenhag's Imagitron
