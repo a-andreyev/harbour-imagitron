@@ -35,41 +35,42 @@
         <location filename="../qml/pages/About.qml" line="32"/>
         <source>This application is made by Alexey Andreyev
                     as fan work without Simon Stålenhag.
-                    Application cover is made by Alexey Andreyev
+                    Application cover is made by Alexey
                     based on the artist&apos;s website header
                     in purchased Pixeluvo application.
                     Pixeluvo is developed by Pictopotamus Ltd. 
                     This application is developed with Sailfish IDE
-                    in GNU/Linux/Archlinux/KDE operating system.</source>
+                    in GNU/Linux/Archlinux/KDE operating system.
+                    Licence: GPLv3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="42"/>
+        <location filename="../qml/pages/About.qml" line="43"/>
         <source>Donate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="61"/>
+        <location filename="../qml/pages/About.qml" line="62"/>
         <source>Rocketbank</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="69"/>
+        <location filename="../qml/pages/About.qml" line="70"/>
         <source>Sources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="91"/>
-        <source>My name is Alexey Andreyev. I&apos;m PhD student from Saint Petersburg, Russia. Donates are welcome.</source>
+        <location filename="../qml/pages/About.qml" line="92"/>
+        <source>My name is Alexey Andreyev. I&apos;m PhD student from Saint Petersburg, Russia. Donations are welcome.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="94"/>
+        <location filename="../qml/pages/About.qml" line="95"/>
         <source>My website</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/About.qml" line="80"/>
+        <location filename="../qml/pages/About.qml" line="81"/>
         <source>Contacts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -90,7 +91,7 @@
 <context>
     <name>MainPage</name>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="26"/>
+        <location filename="../qml/pages/MainPage.qml" line="28"/>
         <source>Simon Stålenhag&apos;s Imagitron</source>
         <translation type="unfinished"></translation>
     </message>

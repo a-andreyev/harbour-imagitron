@@ -4,6 +4,7 @@
 #include <QObject>
 #include <QAbstractListModel>
 #include <QUrl>
+#include <QVariantList>
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #include "imagitronobject.h"
@@ -27,6 +28,7 @@ public:
 
     Q_INVOKABLE QVariantMap get(int row);
     Q_INVOKABLE void refresh();
+    Q_INVOKABLE QVariantList getUrlsListForDbus(int row);
 
     QHash<int, QByteArray> roleNames() const;
 signals:

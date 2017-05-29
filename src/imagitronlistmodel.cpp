@@ -55,6 +55,21 @@ void ImagitronListModel::refresh()
     qDebug("TODO: implement");
 }
 
+QVariantList ImagitronListModel::getUrlsListForDbus(int row)
+{
+    QVariantList urlsListForDbus;
+    int objCount = _objects.count();
+    if (row<objCount) {
+        for (int x = row; x<objCount;x++) {
+            urlsListForDbus << _objects.at(x)->url().toString();
+        }
+        for (int x = 0; x<row;x++) {
+            urlsListForDbus << _objects.at(x)->url().toString();
+        }
+    }
+    return urlsListForDbus;
+}
+
 void ImagitronListModel::_refresh()
 {
     // TODO: move to file downloader?

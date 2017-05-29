@@ -31,12 +31,13 @@ Page {
                 }
                 text: qsTr("This application is made by Alexey Andreyev
                     as fan work without Simon Stålenhag.
-                    Application cover is made by Alexey Andreyev
+                    Application cover is made by Alexey
                     based on the artist's website header
                     in purchased Pixeluvo application.
                     Pixeluvo is developed by Pictopotamus Ltd. 
                     This application is developed with Sailfish IDE
-                    in GNU/Linux/Archlinux/KDE operating system.")
+                    in GNU/Linux/Archlinux/KDE operating system.
+                    Licence: GPLv3")
             }
             SectionHeader {
                 text: qsTr("Donate")
@@ -88,7 +89,7 @@ Page {
                     right: parent.right
                     margins: Theme.paddingLarge
                 }
-                text: qsTr("My name is Alexey Andreyev. I'm PhD student from Saint Petersburg, Russia. Donates are welcome.")
+                text: qsTr("My name is Alexey Andreyev. I'm PhD student from Saint Petersburg, Russia. Donations are welcome.")
             }
             IconTextButton {
                 text: qsTr("My website")+": aa13q.ru"

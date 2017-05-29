@@ -8,6 +8,9 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sat May 29 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.4-1
+- Switching to external gallery to get access to harbour
+
 * Sat May 27 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.3-1
 - Working on public release
 - Image caching (buggy)

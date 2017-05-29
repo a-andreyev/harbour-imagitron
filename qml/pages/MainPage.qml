@@ -1,6 +1,8 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
+import org.nemomobile.dbus 2.0 // for external gallery view
+
 // TODO: grid
 Page {
     id: pageRoot
@@ -66,10 +68,24 @@ Page {
                 BackgroundItem {
                     anchors.fill: parent
                     onClicked: {
+                        gallery.openImage()
+
                         // console.log(image.source)
                         // Qt.openUrlExternally(url);
-                        pageStack.push(Qt.resolvedUrl("ImageViewPage.qml"),
-                                       {currentIndex: index, model: mainListView.model})
+
+//                        pageStack.push(Qt.resolvedUrl("ImageViewPage.qml"),
+//                                       {currentIndex: index, model: mainListView.model})
+                    }
+                }
+                DBusInterface {
+                    id: gallery
+
+                    service: 'com.jolla.gallery'
+                    path: '/com/jolla/gallery/ui'
+                    iface: 'com.jolla.gallery.ui'
+
+                    function openImage() {
+                        typedCall('showImages', { type: 'as', value: imagitronModel.getUrlsListForDbus(index) })
                     }
                 }
             }

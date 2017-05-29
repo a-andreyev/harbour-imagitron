@@ -43,23 +43,32 @@
         <translation>Контакты</translation>
     </message>
     <message>
+        <source>My website</source>
+        <translation>Мой веб-сайт</translation>
+    </message>
+    <message>
         <source>This application is made by Alexey Andreyev
                     as fan work without Simon Stålenhag.
-                    Application cover is made by Alexey Andreyev
+                    Application cover is made by Alexey
                     based on the artist&apos;s website header
                     in purchased Pixeluvo application.
                     Pixeluvo is developed by Pictopotamus Ltd. 
                     This application is developed with Sailfish IDE
-                    in GNU/Linux/Archlinux/KDE operating system.</source>
-        <translation>Приложение разработано Андреевым Алексеем как фанатская работа без участия Саймона Сталенхога. Обложка приложения создана на основе заголовка веб-сайта художника в лицензионной копии приложения Pixeluvo. Pixeluvo разработано команией Pictopotamus. Приложение разработано в среде GNU/Linux/Archlinux/KDE с помощью Sailfish IDE.</translation>
+                    in GNU/Linux/Archlinux/KDE operating system.
+                    Licence: GPLv3</source>
+        <translation>Приложение разработано Алексеем Андреевым
+                    как фанатская работа без Саймона Сталенхога.
+                    Обложка приложения сделана Алексеем
+                    на основе веб-сайта художника
+                    в лицензионной копии Pixeluvo.
+                    Pixeluvo разработано в Pictopotamus Ltd. 
+                    Приложение разработано в Sailfish IDE
+                    в среде GNU/Linux/Archlinux/KDE.
+                    Лицензия: GPLv3</translation>
     </message>
     <message>
-        <source>My name is Alexey Andreyev. I&apos;m PhD student from Saint Petersburg, Russia. Donates are welcome.</source>
+        <source>My name is Alexey Andreyev. I&apos;m PhD student from Saint Petersburg, Russia. Donations are welcome.</source>
         <translation>Меня зовут Алексей Андреев. Я аспирант из Санкт-Петербурга. Пожертвования приветствуются.</translation>
-    </message>
-    <message>
-        <source>My website</source>
-        <translation>Мой веб-сайт</translation>
     </message>
 </context>
 <context>
