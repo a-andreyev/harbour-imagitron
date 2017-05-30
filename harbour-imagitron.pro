@@ -18,12 +18,9 @@ OTHER_FILES += qml/harbour-imagitron.qml \
     qml/cover/CoverPage.qml \
     qml/pages/MainPage.qml \
     qml/pages/MenuPage.qml \
-    qml/pages/ImagePage.qml \
     qml/pages/AboutSimon.qml \
     qml/pages/About.qml \
     qml/pages/IconTextButton.qml \
-    # qml/pages/ImageViewPage.qml \
-    # qml/pages/FlickableImageView.qml \
     rpm/harbour-imagitron.spec \
     rpm/harbour-imagitron.changes \
     rpm/harbour-imagitron.yaml \

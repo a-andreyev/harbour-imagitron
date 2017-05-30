@@ -8,20 +8,23 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
-* Sat May 29 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.4-1
+* Sat May 30 2017 Alexey Andreyev <aa13q@ya.ru> 0.5-1
+- Removing legacy code
+
+* Sat May 29 2017 Alexey Andreyev <aa13q@ya.ru> 0.4-1
 - Switching to external gallery to get access to harbour
 
-* Sat May 27 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.3-1
+* Sat May 27 2017 Alexey Andreyev <aa13q@ya.ru> 0.3-1
 - Working on public release
 - Image caching (buggy)
 
 
-* Fri May 19 2017 Alexey Andreyev <aa13q@ya.ru> 0.0.2-1
+* Fri May 19 2017 Alexey Andreyev <aa13q@ya.ru> 0.2-1
 - Working on public release
 - Image view page
 - Ambiencess
 
-* Sun Aug 6 2016 Alexey Andreyev <aa13q@ya.ru> 0.0.1-2
+* Sun Aug 6 2016 Alexey Andreyev <aa13q@ya.ru> 0.1-2
 - Cover image
 
 * Sun Aug 1 2016 Alexey Andreyev <aa13q@ya.ru> 0.0.1-1

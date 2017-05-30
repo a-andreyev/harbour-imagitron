@@ -2,24 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1">
 <context>
-    <name></name>
-    <message id="gallery-me-create_ambience">
-        <location filename="../qml/pages/ImageViewPage.qml" line="205"/>
-        <source>Create ambience</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="gallery-la-share">
-        <location filename="../qml/pages/ImageViewPage.qml" line="224"/>
-        <source>Share</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="gallery-la-add_account">
-        <location filename="../qml/pages/ImageViewPage.qml" line="236"/>
-        <source>Add account</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>About</name>
     <message>
         <location filename="../qml/pages/About.qml" line="16"/>

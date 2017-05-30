@@ -69,12 +69,6 @@ Page {
                     anchors.fill: parent
                     onClicked: {
                         gallery.openImage()
-
-                        // console.log(image.source)
-                        // Qt.openUrlExternally(url);
-
-//                        pageStack.push(Qt.resolvedUrl("ImageViewPage.qml"),
-//                                       {currentIndex: index, model: mainListView.model})
                     }
                 }
                 DBusInterface {
