@@ -70,7 +70,7 @@ Page {
                 text: qsTr("Sources")
             }
             IconTextButton {
-                text: "Guthub: github.com/a-andreyev/harbour-imagitron"
+                text: "Github: github.com/a-andreyev/harbour-imagitron"
                 iconSource: "../res/git.svg"
                 onClicked: {
                     Qt.openUrlExternally("https://github.com/a-andreyev/harbour-imagitron");
